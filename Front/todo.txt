@@ -1,0 +1,4 @@
+make header/navbar scroll
+implement escape close in search
+add icon, cart
+make sidebar for cart
